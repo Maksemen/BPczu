@@ -1,0 +1,55 @@
+body {
+    background-color: #ffccfd;
+    font-family: serif;
+    line-height: 1.5;
+    font-size: 17px;
+}
+
+figure {
+    color: gray;
+    text-align: center;
+}
+.title {
+    font-size: 40px;
+    border-radius: 5px 5px 5px 5px;
+    margin: 0 auto;
+    color: snow;
+    
+}
+.me {
+    width: auto;
+    border: 1px solid #553509;
+    margin: 0 auto;
+    border-radius: 0px 0px 5px 5px;
+    height: auto;
+    background-color: #aad394;
+}
+.end {
+    border-radius: 5px 5px 5px 5px;
+    margin: 0 auto;
+    color: #000000;
+}
+.down {
+    background-color: snow;
+    width: auto;
+    border: 1px solid #553509;
+    border-radius: 5px 5px 5px 5px;
+    margin: 0 auto;
+}
+.central{
+    width: auto;
+    margin: 5px;
+    border: 1px solid #553509;
+    border-radius: 5px 5px 5px 5px;
+    background-color: snow;
+    border-radius: 10px;
+}
+.logo{
+    width:auto;
+    border: 1px solid #553509;
+    border-radius: 5px 5px 5px 5px;
+    margin: 0 auto;
+    margin: 0 auto;
+    margin: 0 auto;
+    background-color: #aad394;
+}
